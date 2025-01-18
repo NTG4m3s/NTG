@@ -15,9 +15,8 @@ header {
 }
 
 #logo {
-    .logo
-    width: 125%
-    height: 125%
+    width: 200px;
+    height: auto;
 }
 
 }
