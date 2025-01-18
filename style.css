@@ -15,9 +15,9 @@ header {
 }
 
 #logo {
-    max-width: 100px;
-    height: auto;
-    margin-bottom: 10px;
+   width: 100px;
+    height: 100px; 
+    object-fit: contain; 
 }
 
 h1 {
